@@ -11,4 +11,6 @@ Classify whether a pt is obese
 	ipython -c "%run doc2vec.ipynb"
 ## run svm + Glove model
 	ipython -c "%run Glove.ipynb"
+# Experiment result
+
 			
