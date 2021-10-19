@@ -14,5 +14,5 @@ Classify whether a pt is obese
 ## run LSTM
 [LSTM](https://github.com/nomiaro/DigitalMedicine_Case1/blob/master/LSTM/README.md)
 # Experiment result
-
-			
+## LSTM
+![image](https://github.com/nomiaro/DigitalMedicine_Case1/blob/master/LSTM/Experiment_Result.png)
